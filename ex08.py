@@ -10,3 +10,5 @@ print ("Sua placa de vídeo:", (placa))
 del gabinete[0]
 del placa[0]
 
+print (gabinete)
+print (placa)
