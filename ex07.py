@@ -22,7 +22,7 @@ print("O item 1 dentro da lista de livros é: ", (livros[1]))#printar os livros 
 
 del esporte[1]#deletei o item de valor 1 da lista esportes
 
-disciplinas = ['História', 'Português']#criar a lista de disciplinas
+lista.insert(4, "disciplinas")#criar a lista de disciplinas
 
 tudo_novo = [tudo + disciplinas]#agrupar as disciplinas junto com as outras listas
 
