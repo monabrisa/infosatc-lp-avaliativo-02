@@ -18,7 +18,7 @@ esporte.insert(1, "Futebol")
 
 tudo = [filmes, jogos, livros, esporte]#agrupar tudo em uma variavel
 
-print("O item 1 dentro da lista de livros é: ", (livros))#printar os livros dentro da lista
+print("O item 1 dentro da lista de livros é: ", (livros[1]))#printar os livros dentro da lista
 
 del esporte[1]#deletei o item de valor 1 da lista esportes
 
